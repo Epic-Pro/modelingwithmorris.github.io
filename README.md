@@ -1,2 +1,2 @@
-# Morris-Mulela_Financial-Modeling-Portfolio
-Finance professional specializing in institutional-grade M&amp;A execution, LBO architectures, dynamic FP&amp;A engines, and multi-scenario valuations (DCF/CCA), in addition to financial process and workflow automation. Delivering rigorous, zero-hardcoding 3-statement models and strategic analytics designed to de-risk transactions, streamline decision-making and optimize capital allocation for clients and investors.
+# Morris-Mulela_Financial-Modeling-&-Business-Valuation
+Morris is a finance professional specializing in institutional-grade M&amp;A execution, LBO architectures, dynamic FP&amp;A engines, and multi-scenario valuations (DCF/CCA), in addition to financial process and workflow automation. Delivering rigorous, zero-hardcoding 3-statement models and strategic analytics designed to de-risk transactions, streamline decision-making and optimize capital allocation for clients and investors.
